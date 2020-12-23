@@ -2,7 +2,6 @@ tmp
 *.bundle
 *.gem
 *.o
-*.so
 *.bundle
 *.jar
 *.swp
