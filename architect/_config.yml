@@ -1,0 +1,12 @@
+# Setup
+name:         Software Architecture
+tagline:      Observations and Tools Relating to Software Architecture
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

@@ -1,0 +1,12 @@
+# Site settings
+title: "Tim's blogs"
+email: "njtimgeorge@gmail.com"
+description: "Landing page for Tim's blogs"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://wwww.byzantinegeek.com/" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
