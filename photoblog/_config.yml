@@ -4,7 +4,7 @@ title: "Travel and Adventures"
 description: "Travel and Nature Photography"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /photoblog
+baseurl: ""
 include: ["_pages"]
 permalink: /:title/
 email: njtimgeorge@gmail.com
